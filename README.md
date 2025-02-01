@@ -1,2 +1,2 @@
 # 90DaySprint
-A 90Day long sprint for your preparation and cracking your next opportunities.  An initiative by Sandip :)
+I have started a new project and practice some DSA and apptitude questions. 
